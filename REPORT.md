@@ -1,4 +1,4 @@
-   # Report
+# Report
 
 Vlad Ichim (s5096928) & Milan Boomsma (s4810945)
 
@@ -9,11 +9,6 @@ Here, strategic battles are the key to having the team that dominates the board.
 the user to choose between fighters for their bases, form armies, send them to battle and conquer enemy bases. The game 
 also provides the user with the choice to add various events that can influence the outcome of said battles, such as gaining 
 strength stations, teleporters and natural disasters. In order to not lose the progress, the user can choose to save the game.
- 
-> *Very briefly describe what your program does.
-
-
->Expected length: ~100 words
 
 ## Program design
 
@@ -55,16 +50,6 @@ Finally, the design of our program follows the MVC architecture, which promotes 
 testing, as well as modification for each part separately. The design decisions made improve code clarity and ensure
 that the functionality of the program aligns with the requirements of the assignment.
 
-> *Here you go over the structure of the program. Try not to go too in-depth here implementation-wise, but rather discuss the important components and relations between them. 
-> If you think it can help, feel free to add a simple diagram here. The design of the program should be clear to the reader. 
-> 
-> In particular, describe the model of the program. How is it structured? How did you make sure to separate the different aspects of the program?
-> How do the `model`, `view` and `controller` interact with each other?
-> Additionally, you should include some design decisions in here. There is no need to provide an explanation for every single thing, 
-> but there are often multiple ways of implementing a feature and in those cases it makes sense to state why you chose one over the other.*
-
-> Expected length: as much as you need to explain the above.
-
 ## Evaluation of the program
 
 The program is tested against errors, these being prevented through different functionalities that I will go more in depth
@@ -90,10 +75,6 @@ require a certain amount of coins, which can be gained from battling. This would
 as it connects its two main purposes: creating bases and battling. Finally, the game can be brushed up by improving the 
 user interface. Complex graphics, interesting and refined button animations, as well as interactive visual feedback can 
 make the game more interactive and exciting for the players.
-
-> *Discuss the stability of your implementation. What works well? Are there any bugs? Is everything tested properly? Are there still features that have not been implemented? Also, if you had the time, what improvements would you make to your implementation? Are there things which you would have done completely differently?*
-
->Expected length: ~300-500 words
 
 ## Questions
 
@@ -160,10 +141,6 @@ so that you can quickly identify the issues. Finally, another important lesson w
 importance of communication and collaboration within a team. By talking to each-other we identified the core strengths
 that each individual has and how we can use them to work together on the project.
 
-> *Describe shortly the process that led to the final code and the report. What was easy, what was difficult? Did you make interesting mistakes? What have you learned from this assignment?*
-
-> Expected length: ~150 words
-
 ## Conclusions
 
 In conclusion, creating this game provided a unique opportunity to apply newly learned Java functionalities and programming
@@ -171,5 +148,3 @@ concepts. The implementation covers the core features mentioned in the assignmen
 that elevate the gaming experience. This game offered us a chance to expand our Java programming skills, while providing a
 fun and thrilling experience for the players. While the game has the desired functionality, it is crucial to continue testing
 and fixing bugs to ensure the stability of the game and address any unforseen issues.
-
-> *Add a very short summary/concluding remarks here*
